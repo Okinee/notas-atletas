@@ -16,7 +16,7 @@ A sua função deverá calcular a média das notas sem considerar a maior e meno
 
 **Utilize a seguinte entrada:**
 
-´´´
+```
 let atletas = [
  {
    nome: "Cesar Abascal",
@@ -35,12 +35,12 @@ let atletas = [
    notas: [10, 10, 10, 9, 9.5]
  }
 ]; 
-´´´
+```
 
 
 **A saída deve ser:**
 
-´´´
+```
 Atleta: Cesar Abascal
 Notas Obtidas: 10,10,7.88,8.42,9.34
 Média Válida: 9,253333
@@ -56,6 +56,6 @@ Média Válida: 9
 Atleta: Bruno Castro
 Notas Obtidas: 10,10,10,9,9.5
 Média Válida: 9.83333333333
-´´´
+```
 
 
